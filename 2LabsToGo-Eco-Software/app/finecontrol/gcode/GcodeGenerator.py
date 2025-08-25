@@ -1,6 +1,6 @@
 import time
 from datetime import datetime
-
+#Test-Kommentar
 INIT_POINT_X = 20
 INIT_POINT_Y = 3.5
 
